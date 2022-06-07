@@ -1,0 +1,206 @@
+/* ===================================| IMPORTS |===================================*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500;700&family=Space+Mono:wght@400;700&display=swap');
+
+/* ===================================| VARIABLES |===================================*/
+:root {
+  --body-font: 'Space Mono', monospace;
+
+  --h3-font-size: 1.5rem;
+  --h1-font-size: 3rem;
+  --font-size-normal: 1.125rem;
+}
+
+
+
+@media screen and (min-width: 768px) {
+  :root {
+    --h3-font-size: 1.5rem;
+    --h1-font-size: 4rem;
+    --font-size-normal: 1.5rem;
+  }
+}
+
+/* ===================================| BASE |===================================*/
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: auto;
+  font-family: var(--body-font);
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+main {
+  width: 100%;
+  height: calc(100% - 96px);
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 5rem;
+}
+
+footer {
+  padding-bottom: 1.5rem;
+}
+
+/* ===================================| BREAKPOINTS |===================================*/
+.container {
+  width: 95%;
+  margin: 2rem auto;
+}
+
+@media screen and (min-width: 1023px) {
+  .container {
+    width: 100%;
+    margin:0;
+    padding: 2.5rem 7.4375rem 2.5rem 4.8125rem;
+  }
+}
+
+/* ===================================| HEADER |===================================*/
+
+.header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 6.25rem;
+  padding-left:1.5rem ;
+}
+
+.header__container {
+  padding-bottom: 0;
+}
+
+.header__title {
+  font-size: var(--h3-font-size);
+  font-weight: 700;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.page {
+  width: 100%;
+}
+
+.page__container {
+  display: flex;
+  align-items: center;
+  gap: 7.4375rem;
+}
+
+.page__image {
+  flex: 1;
+  height: 447.43px;
+}
+
+.page___img {
+  min-width: 100%;
+  height: 100%;
+  background: url(../img/Scarecrow.png) no-repeat center;
+  background-size: contain;
+}
+
+.page__data {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding-left: 2.5rem;
+}
+
+.page__title {
+  width: 115%;
+  font-size: var(--h1-font-size);
+  line-height: 6rem;
+  margin-bottom: 2.25rem;
+}
+
+.page__description {
+  width: 381px;
+  font-weight: 400;
+  margin-bottom: 64px;
+  font-size: var(--font-size-normal);
+  line-height: 35.54px;
+  letter-spacing: -3.5%;
+}
+
+.page__link {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  
+}
+.page__link a{
+  font-size: 14px;
+  padding: 24px 43px;
+  text-transform: uppercase;
+  background: #333333;
+  color: #FFFFFF;
+}
+
+@media screen and (max-width:768px) {
+  .page__data{
+    width: 100%;
+  }
+  .page__image {
+    width: auto;
+    height: 238px;
+  }
+
+  .page__title {
+    width: 100%;
+    line-height:4.5rem;
+  }
+  .page__description{
+    line-height: 26.66px;
+  }
+
+}
+
+/* ===================================| FOOTER |===================================*/
+.footer__container {
+  width: 95%;
+  height: auto;
+
+  padding-bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer__description{
+  font-size: var(--font-size-normal);
+}
+
+
+@media screen and (max-width: 1023px) {
+  .page__container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    gap: 60px;
+  }
+}
