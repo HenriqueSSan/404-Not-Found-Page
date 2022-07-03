@@ -55,8 +55,8 @@ O que os usuarios devem fazer:
 
 ### 🧪 Links
 
-- URL da solução: [LINK](sss)
-- Demostrativo da solução: [LINK](sss)
+- URL da solução: [LINK](https://404-not-found-page-nine.vercel.app/)
+- Demostrativo da solução: [LINK](https://404-not-found-page-nine.vercel.app/)
 
 [<<< TOP](#tabela-de-conteúdos)
 
