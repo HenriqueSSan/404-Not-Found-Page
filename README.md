@@ -2,7 +2,7 @@
 
 Em layout de uma pagina que teve o status 404 com erro de cliente de cliente para servidor.
 
-## Lingaugens
+## Linguagens
 
 |Linguagens       |README           |
 |-----------------|-----------------|
