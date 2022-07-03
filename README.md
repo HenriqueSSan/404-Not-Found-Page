@@ -13,7 +13,7 @@ Em layout de uma pagina que teve o status 404 com erro de cliente de cliente par
 
 |Conteúdos                                                |Status|
 |---------------------------------------------------------|------|
-|[👀 Visão Geral 👀](#👀-visão-geral)                     |OK    |
+|[👀 Visão Geral 👀](#-visão-geral)                     |OK    |
 |[🎯 Desafios 🎯](#🎯-o-desafio)                          |OK    |
 |[📽️ Captura de Tela 📽️](#📽️-captura-de-tela)             |OK    |
 |[🧪 Links para Demos 🧪](#🧪-links)                      |OK    |
