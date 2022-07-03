@@ -6,7 +6,7 @@ Em layout de uma pagina que teve o status 404 com erro de cliente de cliente par
 
 |Linguagens       |README           |
 |-----------------|-----------------|
-|English          |[LINK](lll)      |
+|English          |[LINK](./README.md)      |
 |Portuguese Brazil|[LINK](./README_pt-br.md)      |
 
 ## Tabela de conteúdos

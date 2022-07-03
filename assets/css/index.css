@@ -80,13 +80,13 @@ footer {
 /* ===================================| HEADER |===================================*/
 
 .header {
-  width: 100%;
-  height: auto;
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  margin-bottom: 6.25rem;
+  width: 100%;
+  height: auto;
   padding-left:1.5rem ;
+  margin-bottom: 6.25rem;
 }
 
 .header__container {
@@ -94,9 +94,9 @@ footer {
 }
 
 .header__title {
+  color: #000;
   font-size: var(--h3-font-size);
   font-weight: 700;
-  color: #000;
   text-transform: uppercase;
 }
 
@@ -133,33 +133,33 @@ footer {
 
 .page__title {
   width: 115%;
+  margin-bottom: 2.25rem;
   font-size: var(--h1-font-size);
   line-height: 6rem;
-  margin-bottom: 2.25rem;
 }
 
 .page__description {
   width: 381px;
-  font-weight: 400;
   margin-bottom: 64px;
   font-size: var(--font-size-normal);
+  font-weight: 400;
   line-height: 35.54px;
   letter-spacing: -3.5%;
 }
 
 .page__link {
-  width: 100%;
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  width: 100%;
   
 }
 .page__link a{
-  font-size: 14px;
   padding: 24px 43px;
+  font-size: 14px;
   text-transform: uppercase;
-  background: #333333;
   color: #FFFFFF;
+  background: #333333;
 }
 
 @media screen and (max-width:768px) {
@@ -183,13 +183,13 @@ footer {
 
 /* ===================================| FOOTER |===================================*/
 .footer__container {
-  width: 95%;
-  height: auto;
-
-  padding-bottom: 0;
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 95%;
+  height: auto;
+  padding-bottom: 0;
+
 }
 .footer__description{
   font-size: var(--font-size-normal);
