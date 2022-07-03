@@ -21,7 +21,7 @@ Em layout de uma pagina que teve o status 404 com erro de cliente de cliente par
 |[📖 O que aprendi 📖](#-o-que-aprendi)                                  |OK    |
 |[🏗️ Desenvolvido com 🏗️](#-desenvolvido-com-as-tecnologias)             |OK    |
 |[🏭 Desenvolvido continuo 🏭](#-desenvolvimento-continuo)               |OK    |
-|[📦 Recursos 📦](#)                                                     |NOT   |
+|📦 Recursos 📦                                                          |NOT   |
 |[✍️ Autor ✍️](#-autor)                                                    |OK    |
 |[📞 Contato 📞](#-contato)                                              |OK    |
 |[🎊 Agradecimentos🎊](#-agradecimentos)                                 |OK    |
