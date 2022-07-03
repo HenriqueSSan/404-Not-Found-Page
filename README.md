@@ -13,18 +13,18 @@ Em layout de uma pagina que teve o status 404 com erro de cliente de cliente par
 
 |Conteúdos                                                |Status|
 |---------------------------------------------------------|------|
-|[👀 Visão Geral 👀](#-visão-geral)                     |OK    |
-|[🎯 Desafios 🎯](#🎯-o-desafio)                          |OK    |
-|[📽️ Captura de Tela 📽️](#📽️-captura-de-tela)             |OK    |
-|[🧪 Links para Demos 🧪](#🧪-links)                      |OK    |
-|[👟 Meu Processo 👟](#👟-meu-processo)                   |OK    |
-|[📖 O que aprendi 📖](#📖-o-que-aprendi)                 |OK    |
-|[🏗️ Desenvolvido com 🏗️](#🏗️-desenvolvido-com)           |OK    |
-|[🏭 Desenvolvido continuo 🏭](#🏭-desenvolvido-continuo) |OK    |
-|[📦 Recursos 📦](#📦-recursos)                           |NOT   |
-|[✍️ Autor ✍️](#✍️-autor)                                    |OK    |
-|[📞 Contato 📞](#📞-contato)                             |OK    |
-|[🎊 Agradecimentos🎊](#🎊-agradecimentos)                |OK    |
+|[👀 Visão Geral 👀](#-visão-geral)                       |OK    |
+|[🎯 Desafios 🎯](#-o-desafio)                            |OK    |
+|[📽️ Captura de Tela 📽️](#📽-captura-de-tela)             |OK    |
+|[🧪 Links para Demos 🧪](#-links)                        |OK    |
+|[👟 Meu Processo 👟](#-meu-processo)                     |OK    |
+|[📖 O que aprendi 📖](#-o-que-aprendi)                   |OK    |
+|[🏗️ Desenvolvido com 🏗️](#🏗-desenvolvido-com)           |OK    |
+|[🏭 Desenvolvido continuo 🏭](#-desenvolvido-continuo)   |OK    |
+|[📦 Recursos 📦](#-recursos)                             |NOT   |
+|[✍️ Autor ✍️](#-autor)                                     |OK    |
+|[📞 Contato 📞](#-contato)                               |OK    |
+|[🎊 Agradecimentos🎊](#-agradecimentos)                  |OK    |
 |                                                         |      |
 
 ## 👀 Visão Geral
